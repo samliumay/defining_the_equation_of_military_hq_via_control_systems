@@ -1,0 +1,9 @@
+[project]
+name = "hq-control-sim"
+version = "0.1.0"
+description = "Three-loop control model of an HQ / node / autopilot system"
+requires-python = ">=3.11"
+dependencies = ["matplotlib>=3.8", "numpy>=1.26"]
+
+[tool.uv]
+package = false
