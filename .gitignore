@@ -1,0 +1,5 @@
+.obsidian/workspace*
+__pycache__/
+.venv/
+target/
+.env
